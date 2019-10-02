@@ -1,0 +1,6 @@
+a. Yes
+b. No
+c. 2 & 4 Works
+d. Yes
+e. "True"
+f. Yes
